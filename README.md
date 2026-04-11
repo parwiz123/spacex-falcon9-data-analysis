@@ -75,8 +75,10 @@ Successful landings significantly reduce launch costs, making this analysis valu
 
 ---
 
-## 🗺️ Interactive Folium Maps
-
-### Launch Sites Visualization
+## 🗺️ Interactive Folium Maps from Project
 
 <img src="https://raw.githubusercontent.com/parwiz123/spacex-falcon9-data-analysis/main/Map%201.png" width="600"/>
+
+---
+
+<img src="https://raw.githubusercontent.com/parwiz123/spacex-falcon9-data-analysis/main/Map%202.png" width="600"/>
