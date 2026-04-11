@@ -82,3 +82,20 @@ Successful landings significantly reduce launch costs, making this analysis valu
 ---
 
 <img src="https://raw.githubusercontent.com/parwiz123/spacex-falcon9-data-analysis/main/Map%202.png" width="600"/>
+
+---
+
+## 📊 Interactive Dashboard (Plotly Dash)
+
+<img src="https://raw.githubusercontent.com/parwiz123/spacex-falcon9-data-analysis/main/Int%201.png" width="600"/>
+
+---
+
+<img src="https://raw.githubusercontent.com/parwiz123/spacex-falcon9-data-analysis/main/int%202.png" width="600"/>
+
+---
+
+<img src="https://raw.githubusercontent.com/parwiz123/spacex-falcon9-data-analysis/main/int%203.png" width="600"/>
+
+
+<img src="https://raw.githubusercontent.com/parwiz123/spacex-falcon9-data-analysis/main/int%204.png" width="600"/>
